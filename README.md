@@ -5,6 +5,6 @@
 (I am programming)
 
 💡 Знаю (I know):
-   ★ Python [50%]
-   ★ HTML [95%]
-   ★ Java [15%]
+   ★ Python [50%] +
+   ★ HTML [95%] +
+   ★ Java [15%] +
