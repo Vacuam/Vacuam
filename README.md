@@ -1,10 +1,10 @@
-👋 Привет, я Vacuam!
-# (Hello, I'm Vacuam!)
+# 👋 Привет, я Vacuam!
+(Hello, I'm Vacuam!)
 
-👨‍💻 Я программирую
-# (I am programming)
+# 👨‍💻 Я программирую
+(I am programming)
 
-💡 Знаю (I know):
+# 💡 Знаю (I know):
    ★ Python [50%]
    ★ HTML [95%]
    ★ Java [15%]
